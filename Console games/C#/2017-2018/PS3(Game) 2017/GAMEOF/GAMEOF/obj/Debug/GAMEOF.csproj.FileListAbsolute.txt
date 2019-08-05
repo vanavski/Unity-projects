@@ -1,0 +1,14 @@
+c:\users\админ\source\repos\GAMEOF\GAMEOF\bin\Debug\GAMEOF.exe.config
+c:\users\админ\source\repos\GAMEOF\GAMEOF\bin\Debug\GAMEOF.exe
+c:\users\админ\source\repos\GAMEOF\GAMEOF\bin\Debug\GAMEOF.pdb
+c:\users\админ\source\repos\GAMEOF\GAMEOF\obj\Debug\GAMEOF.csprojResolveAssemblyReference.cache
+c:\users\админ\source\repos\GAMEOF\GAMEOF\obj\Debug\GAMEOF.csproj.CoreCompileInputs.cache
+c:\users\админ\source\repos\GAMEOF\GAMEOF\obj\Debug\GAMEOF.exe
+c:\users\админ\source\repos\GAMEOF\GAMEOF\obj\Debug\GAMEOF.pdb
+C:\FALL2017\Fall2017\PS\PS3(Game)\GAMEOF\GAMEOF\bin\Debug\GAMEOF.exe.config
+C:\FALL2017\Fall2017\PS\PS3(Game)\GAMEOF\GAMEOF\bin\Debug\GAMEOF.exe
+C:\FALL2017\Fall2017\PS\PS3(Game)\GAMEOF\GAMEOF\bin\Debug\GAMEOF.pdb
+C:\FALL2017\Fall2017\PS\PS3(Game)\GAMEOF\GAMEOF\obj\Debug\GAMEOF.csprojResolveAssemblyReference.cache
+C:\FALL2017\Fall2017\PS\PS3(Game)\GAMEOF\GAMEOF\obj\Debug\GAMEOF.csproj.CoreCompileInputs.cache
+C:\FALL2017\Fall2017\PS\PS3(Game)\GAMEOF\GAMEOF\obj\Debug\GAMEOF.exe
+C:\FALL2017\Fall2017\PS\PS3(Game)\GAMEOF\GAMEOF\obj\Debug\GAMEOF.pdb

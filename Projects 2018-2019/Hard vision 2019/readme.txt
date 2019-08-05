@@ -1,0 +1,1 @@
+Project for a course work with requirments and deadlines.

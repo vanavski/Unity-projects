@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Gachiseum.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Menu.cs">
+    <Files>
+      <File FileName="Assets\Scripts\InteractivePlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\My Scripts\ObjectController.cs" Line="46" Column="1" />
+      <File FileName="Assets\Scripts\Menu.cs" Line="10" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

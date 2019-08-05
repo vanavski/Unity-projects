@@ -1,0 +1,9 @@
+C:\Users\Админ\source\repos\GetImagesApp\GetImagesApp\bin\Debug\GetImagesApp.exe.config
+C:\Users\Админ\source\repos\GetImagesApp\GetImagesApp\bin\Debug\GetImagesApp.exe
+C:\Users\Админ\source\repos\GetImagesApp\GetImagesApp\bin\Debug\GetImagesApp.pdb
+C:\Users\Админ\source\repos\GetImagesApp\GetImagesApp\obj\Debug\GetImagesApp.csprojResolveAssemblyReference.cache
+C:\Users\Админ\source\repos\GetImagesApp\GetImagesApp\obj\Debug\GetImagesApp.Properties.Resources.resources
+C:\Users\Админ\source\repos\GetImagesApp\GetImagesApp\obj\Debug\GetImagesApp.csproj.GenerateResource.Cache
+C:\Users\Админ\source\repos\GetImagesApp\GetImagesApp\obj\Debug\GetImagesApp.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\GetImagesApp\GetImagesApp\obj\Debug\GetImagesApp.exe
+C:\Users\Админ\source\repos\GetImagesApp\GetImagesApp\obj\Debug\GetImagesApp.pdb
